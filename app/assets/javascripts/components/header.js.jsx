@@ -1,4 +1,4 @@
-class Main extends React.Component {
+class Header extends React.Component {
   render () {
     return (
       <div>
@@ -7,4 +7,3 @@ class Main extends React.Component {
     )
   }
 }
-
